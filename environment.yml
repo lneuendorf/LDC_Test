@@ -1,0 +1,16 @@
+name: LDC_Test
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - numpy
+  - pandas
+  - jupyter
+  - plotly
+  - dash
+  - pip
+  - sqlite3
+  - pip:
+    - plotly-express
+

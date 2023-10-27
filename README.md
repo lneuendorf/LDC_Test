@@ -1,5 +1,5 @@
 # Setting Up the Conda Environment
 ```bash
-conda env create -f environment.yml
-conda activate LDC_Test
+chmod u+x setup_env.sh
+./setup_env.sh
 ```
