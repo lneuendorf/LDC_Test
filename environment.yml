@@ -10,7 +10,8 @@ dependencies:
   - plotly
   - dash
   - pip
-  - sqlite3
+  - matplotlib
   - pip:
     - plotly-express
-
+    - xgboost
+    - scikit-learn
