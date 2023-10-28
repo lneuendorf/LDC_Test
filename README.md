@@ -13,8 +13,11 @@ cd LDC_Test
 chmod u+x setup_env.sh
 ./setup_env.sh
 ```
-Activate the environment and start Jupyter Notebooks:
+Activate the Anaconda environment:
 ```
 conda activate LDC_Test
+```
+Start Jupyter applications:
+```
 jupyter notebook
 ```
