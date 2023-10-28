@@ -9,6 +9,7 @@ git clone https://github.com/lneuendorf/LDC_Test.git
 ```
 Enter the project directory and run the setup script:
 ```bash
+cd LDC_Test
 chmod u+x setup_env.sh
 ./setup_env.sh
 ```
