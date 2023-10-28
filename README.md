@@ -1,6 +1,6 @@
 # About
-This repo is a Python Exam given by Louis Dreyfus Company, where I was tasked to create data 
-visualizations analyzing the market and a model forecasting coffee prices.
+This repo is a Python Exam given by Louis Dreyfus Company, where I was tasked with creating data
+visualizations analyzing the coffee commodity market and building a model forecasting coffee prices.
 
 # Setting Up the Conda Environment
 Clone the repo:
